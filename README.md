@@ -1,5 +1,5 @@
 # Trader Performance vs Market Sentiment — Hyperliquid Analysis
-### Primetrade.ai · Data Science / Analytics Intern — Round-0 Assignment
+### Primetrade.ai · Data Science / Analytics Intern
 
 ---
 
